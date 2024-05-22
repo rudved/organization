@@ -1,0 +1,8 @@
+  .square {
+    display: flex;
+    width: 150px;
+    height: 720px;
+    background-color: #eceff1;
+    border: 2px solid #b0bec5;
+    margin-left: 0.1%;
+  }
